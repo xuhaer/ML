@@ -1,9 +1,8 @@
-\# 机器学习100天
-\##[机器学习100天中文版](https://github.com/MachineLearning100/100-Days-Of-ML-Code)
-\##原来是fork，嫌Code中文件太多太杂,故只保留了*.ipynb,方便自己学习参考
-英文原版请移步[Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)。数据在[这里](https://github.com/MachineLearning100/100-Days-Of-ML-Code/tree/master/datasets)。
+# 机器学习100天
+## 原来是fork，嫌Code中文件太多太杂,故只保留了*.ipynb,方便自己学习参考
+## Code中以Day 1_Data这样下划线命名的为参考[机器学习100天中文版](https://github.com/MachineLearning100/100-Days-Of-ML-Code)，以Day 4 Supplement这样的格式为其它参考、学习资料
+## 英文原版请移步[Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)。数据在[这里](https://github.com/MachineLearning100/100-Days-Of-ML-Code/tree/master/datasets)。
 
-翻译前请先阅读[规范](Translation%20specification.MD)。常见问题解答见[FAQ](FAQ.MD)。
 
 \# 目录
 
